@@ -1,0 +1,1 @@
+# OPENCTI-core-Instalation
